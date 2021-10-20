@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(253, 222, 165);
+}
+
+.universeHP {
+    margin: 0 auto;
+    width: 75%;
+    padding: 0;
+}
+
+.universeHP h5 {
+    margin: 0;
+    line-height: 5px;
+}
+
+.body-container {
+    margin: 10px auto;
+    background-color: white;
+    width: 75%;
+}
+
+.header-image {
+    background-image: url("images/ELFADSC06805_TP_V4.jpg");
+    background-size: cover;
+    display: block;
+    height: 200px;
+}
+
+.logo {
+    padding-top: 70px;
+    
+}
+
+.logo-upper {
+    font-size: 13px;
+    margin: 0;
+}
+.logo-lower {
+    font-size: 20px;
+    line-height: 20px;
+    margin: 0;
+}
